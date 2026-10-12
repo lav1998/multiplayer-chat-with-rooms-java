@@ -1,0 +1,33 @@
+# Candidate Brief: Multiplayer Chat with Rooms
+
+Hi, and thanks for taking the time to do this.
+
+Here is how the interview will work, and what we would like from you beforehand.
+
+## Build it with AI (before we meet)
+
+Please build a working version of the app described below. Use whichever AI tools you are comfortable with, be it Cursor, Copilot, Claude, ChatGPT, v0, anything you like. We care about it working, not about how clean the code is, so please don't spend time making it pretty. A couple of hours should be more than enough.
+
+Build prompt:
+
+> Build a real-time chat app with rooms. People join a room by name, and messages go out live to everyone in that room. If you get time: message timestamps and a bit of styling.
+
+Use a stack you know well. Something that runs in the browser is the easiest to demo.
+
+## Sending us your work
+
+Put the project in a git repo and send it to us before the interview. A few things we would request:
+
+- Commit as you go, in small normal steps, so the history shows how you actually built it. Please don't squash everything into a single commit at the end.
+- Share the repo with us. Either push to a private GitHub or GitLab repo and give access to the email we wrote to you from, or run `git bundle create yourname.bundle --all` and send us the file. Do put in a short README with the steps to run it.
+- If it is not much trouble, share your prompts as well, either the exported chat or a quick `PROMPTS.md` in the repo. This is optional, but it helps us see how you worked.
+- Two slides, nothing fancy, a PDF is fine. First slide: what you built and the stack you used. Second slide: what the AI got wrong or what you would do differently, and the part you are least sure about.
+
+Please send all of this across at least the evening before your interview.
+
+## On the day (about an hour)
+
+Keep the app running and your editor open, with your AI chat history within reach, so you can share your screen. You will demo the app, take us through your two slides, and then walk us through the code and the git history. We mostly want to understand how you think about your own code, so please keep talking as you go.
+
+See you then.
+
